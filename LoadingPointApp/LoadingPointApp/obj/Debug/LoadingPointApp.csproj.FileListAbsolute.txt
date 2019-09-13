@@ -1,0 +1,15 @@
+C:\Users\kshau\source\repos\LoadingPointApp\LoadingPointApp\bin\Debug\LoadingPointApp.exe.config
+C:\Users\kshau\source\repos\LoadingPointApp\LoadingPointApp\bin\Debug\LoadingPointApp.exe
+C:\Users\kshau\source\repos\LoadingPointApp\LoadingPointApp\bin\Debug\LoadingPointApp.pdb
+C:\Users\kshau\source\repos\LoadingPointApp\LoadingPointApp\obj\Debug\LoadingPointApp.csprojAssemblyReference.cache
+C:\Users\kshau\source\repos\LoadingPointApp\LoadingPointApp\obj\Debug\LoadingPointApp.Form1.resources
+C:\Users\kshau\source\repos\LoadingPointApp\LoadingPointApp\obj\Debug\LoadingPointApp.Properties.Resources.resources
+C:\Users\kshau\source\repos\LoadingPointApp\LoadingPointApp\obj\Debug\LoadingPointApp.csproj.GenerateResource.cache
+C:\Users\kshau\source\repos\LoadingPointApp\LoadingPointApp\obj\Debug\LoadingPointApp.csproj.CoreCompileInputs.cache
+C:\Users\kshau\source\repos\LoadingPointApp\LoadingPointApp\obj\Debug\LoadingPointApp.exe
+C:\Users\kshau\source\repos\LoadingPointApp\LoadingPointApp\obj\Debug\LoadingPointApp.pdb
+C:\Users\kshau\source\repos\LoadingPointApp\LoadingPointApp\bin\Debug\Database1.mdf
+C:\Users\kshau\source\repos\LoadingPointApp\LoadingPointApp\bin\Debug\Database1_log.ldf
+C:\Users\kshau\source\repos\LoadingPointApp\LoadingPointApp\obj\Debug\LoadingPointApp.Form2.resources
+C:\Users\kshau\source\repos\LoadingPointApp\LoadingPointApp\obj\Debug\LoadingPointApp.Form3.resources
+C:\Users\kshau\source\repos\LoadingPointApp\LoadingPointApp\obj\Debug\LoadingPointApp.Form4.resources
